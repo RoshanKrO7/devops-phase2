@@ -1,0 +1,33 @@
+==========================================
+   System Health Report - Wed Jun 10 11:00:02 UTC 2026
+==========================================
+
+[CPU Usage]: 0.0%
+[0;32mOK: CPU usage is normal[0m
+
+[Memory Usage]: 42%
+[0;32mOK: Memory usage is normal[0m
+
+[Disk Usage]: 48%
+[0;32mOK: Disk usage is normal[0m
+
+[Services]:
+[0;32mOK: ssh is running[0m
+[0;32mOK: cron is running[0m
+
+[Top 3 CPU Processes]:
+ubuntu 40.0% python3
+root 0.0% /sbin/init
+ubuntu 0.0% sshd:
+
+[Network Check]:
+[0;32mOK: Internet is reachable[0m
+Open ports:
+0.0.0.0:22
+127.0.0.53%lo:53
+127.0.0.54:53
+[::]:22
+
+==========================================
+Report complete!
+==========================================

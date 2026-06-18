@@ -1,0 +1,3 @@
+ERROR: disk usage at 95% on /dev/sda1
+ERROR: failed to connect to database
+ERROR: timeout connecting to 192.168.1.10

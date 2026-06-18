@@ -1,0 +1,8 @@
+ERROR: disk usage at 95% on /dev/sda1
+INFO: backup completed successfully
+ERROR: failed to connect to database
+WARNING: memory usage at 80%
+INFO: service nginx started
+ERROR: timeout connecting to 192.168.1.10
+INFO: user roshan logged in
+WARNING: CPU spike detected
